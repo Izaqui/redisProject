@@ -15,9 +15,7 @@ client.on("error", function(error){
 });
 
 const obj = {
-    nome: "Paulo Freitas",
-    email: "paulo.freitas.nt@gmail.com",
-    profissao: "professor"
+    
 };
 
 // Add key
