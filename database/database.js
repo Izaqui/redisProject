@@ -63,7 +63,7 @@ const delet = (request, response) => {
         response.status(200).send('User Delete');
     });
 };
-
+//module.exports = connection;
 module.exports = {
     getUser,
     add,
